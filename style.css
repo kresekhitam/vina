@@ -65,6 +65,7 @@ body {
 
 .mynavbar .offcanvas {
   height: 100vh;
+  filter: blur();
 }
 .mynavbar .navbar-brand,
 .mynavbar .offcanvas-title {
